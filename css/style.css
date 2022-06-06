@@ -1,0 +1,33 @@
+.inputs{
+    width: 500px;
+    margin-top: 50px;
+    opacity: ;
+   }
+   .box{
+     background-color: white;
+   }
+  body{
+    background-color: #867DFD;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .btn{
+    background-color: #867DFD;
+    
+  }
+  
+  .list{
+    width: 90%;
+    margin: auto;
+  }
+  .item{
+    background-color: #867DFD;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 15px;
+    cursor: move;
+  }
